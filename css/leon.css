@@ -20,6 +20,7 @@ html {
 body {
   font-family: "Work Sans", sans-serif;
   scroll-behavior: smooth;
+  margin:0px;
 }
 
 .container {
